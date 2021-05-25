@@ -211,3 +211,6 @@ ul.navbar-nav.bg-img.mr-auto {
     opacity: 1;
     transition: 1s;
 }
+.thumb-blog img{
+    width: 100%;
+}
